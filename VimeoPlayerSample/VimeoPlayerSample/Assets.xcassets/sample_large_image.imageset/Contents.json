@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "jouba_pony_girl.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
